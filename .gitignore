@@ -6,3 +6,6 @@ env/
 .vscode/
 .streamlit/secrets.toml
 *.log
+.agents/
+__pycache__/
+*.py[cod]
